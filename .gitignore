@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ============================
+# RoadShield Project
+# ============================
+
+# Original accident dataset (3 GB)
+data/raw/
+
+# Generated datasets
+data/processed/
+
+# Generated outputs
+output/plots/
+output/reports/
+
+# OS files
+.DS_Store
+Thumbs.db

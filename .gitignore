@@ -227,9 +227,6 @@ data/raw/
 # Generated datasets
 data/processed/
 
-# Generated outputs
-output/plots/
-output/reports/
 
 # OS files
 .DS_Store

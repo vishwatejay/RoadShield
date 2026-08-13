@@ -1,0 +1,15 @@
+ROADSHIELD SAFETY RECOMMENDATIONS
+==================================================
+
+1. Prioritize traffic monitoring and safety measures around 11:00, the hour with the highest number of recorded accidents.
+
+2. Increase traffic safety monitoring on Thursday, which has the highest accident frequency in the analyzed data.
+
+3. Improve road lighting, visibility and night-time warning systems in locations with frequent night accidents.
+
+4. Review traffic-signal intersections with high accident frequency and evaluate signal timing and road design.
+
+5. Monitor road safety conditions during Clear, the most frequently recorded weather condition in the dataset.
+
+6. Prioritize engineering inspections and safety improvements at the highest-ranked accident black spots identified by RoadShield.
+

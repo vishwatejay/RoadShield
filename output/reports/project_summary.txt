@@ -1,0 +1,45 @@
+
+ROADSHIELD
+Road Accident Black Spot Analyzer
+========================================
+
+Dataset
+----------------------------------------
+Total accident records analyzed: 10,000
+Number of columns: 49
+
+Key Findings
+----------------------------------------
+Most common accident severity: 2
+Most common accident hour: 11:00
+Most common accident day: Thursday
+Most common accident month: 12
+Most common weather condition: Clear
+State with most recorded accidents: CA
+
+Black Spot Detection
+----------------------------------------
+Top black spots were identified using
+accident coordinates rounded to three decimal
+places.
+
+The ranking considers both:
+1. Accident frequency
+2. Average accident severity
+
+This produces a Risk Score that helps
+prioritize locations requiring attention.
+
+Purpose
+----------------------------------------
+RoadShield analyzes historical accident data
+to identify accident patterns, high-risk
+locations, environmental conditions and
+time periods.
+
+The results can support:
+- Road safety planning
+- Traffic management
+- Infrastructure improvement
+- Accident prevention
+- Emergency response planning

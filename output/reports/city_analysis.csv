@@ -1,0 +1,409 @@
+City,count
+Sacramento,1151
+San Jose,574
+Oakland,395
+Dayton,321
+San Francisco,271
+Stockton,214
+Tracy,212
+Hayward,194
+Columbus,170
+Santa Rosa,163
+Livermore,162
+Fremont,155
+Fairfield,155
+Los Gatos,134
+Pleasanton,126
+Vallejo,118
+San Mateo,107
+Castro Valley,102
+Roseville,98
+Petaluma,90
+San Leandro,88
+Concord,86
+Redwood City,85
+Berkeley,83
+North Highlands,79
+Walnut Creek,76
+Sunnyvale,71
+Davis,70
+Emeryville,69
+Vacaville,68
+Modesto,68
+Elk Grove,68
+San Rafael,67
+Rancho Cordova,65
+Richmond,65
+Pittsburg,64
+Fair Oaks,63
+San Pablo,60
+Martinez,59
+Napa,59
+Santa Clara,58
+Lodi,57
+Auburn,56
+Milpitas,56
+South San Francisco,55
+West Sacramento,55
+Carmichael,52
+Palo Alto,52
+Sunol,51
+Dixon,51
+Placerville,51
+Salinas,50
+Santa Cruz,49
+Lathrop,49
+Dublin,48
+Grass Valley,48
+Mountain View,44
+Hollister,43
+San Bruno,39
+Novato,39
+Gilroy,38
+Manteca,38
+Sonoma,38
+Alamo,38
+Cupertino,37
+Newark,37
+Galt,36
+Union City,36
+San Lorenzo,36
+Burlingame,35
+El Dorado Hills,34
+Danville,34
+Rocklin,33
+Nevada City,32
+Los Altos,31
+Daly City,30
+Campbell,30
+Citrus Heights,30
+Orinda,29
+Folsom,28
+Menlo Park,28
+Crockett,28
+Pinole,27
+Antelope,26
+Morgan Hill,26
+Belmont,25
+Watsonville,25
+Valley Springs,24
+Oroville,24
+Antioch,24
+Shingle Springs,23
+Granite Bay,23
+Mill Valley,23
+American Canyon,21
+Orangevale,21
+Sausalito,21
+Patterson,21
+San Ramon,20
+Ripon,20
+French Camp,20
+Pleasant Hill,20
+Acampo,19
+Scotts Valley,19
+Sebastopol,19
+Benicia,19
+Corte Madera,18
+Rio Linda,18
+Woodland,18
+Cameron Park,18
+Turlock,17
+Lincoln,17
+Lafayette,17
+Cleveland,16
+Carmel,16
+San Juan Bautista,16
+Aptos,16
+Windsor,16
+Half Moon Bay,16
+Hercules,16
+Wilton,16
+Miamisburg,16
+Los Banos,15
+Akron,15
+Brentwood,15
+Soquel,15
+Newcastle,15
+Atwater,14
+Millbrae,14
+San Carlos,14
+Calistoga,13
+El Sobrante,13
+Salida,13
+Rodeo,13
+Escalon,13
+Willits,13
+Westerville,13
+Saint Helena,12
+Castroville,12
+Monterey,12
+Oakdale,12
+Saratoga,12
+Ione,12
+Rohnert Park,11
+Colfax,11
+Gustine,11
+San Andreas,10
+Walnut Grove,10
+Soledad,10
+Nicasio,10
+Healdsburg,10
+Brisbane,10
+Winters,10
+Middletown,10
+Penn Valley,10
+Ceres,10
+Pollock Pines,10
+Loomis,9
+Byron,9
+Isleton,9
+Penryn,9
+Linden,9
+Sloughhouse,9
+Geyserville,9
+Boulder Creek,9
+Royal Oaks,8
+Rio Vista,8
+Camino,8
+Winton,8
+Ukiah,8
+Firebaugh,8
+Batavia,8
+Discovery Bay,7
+Pickerington,7
+El Cerrito,7
+Glen Ellen,7
+Forestville,7
+Aromas,7
+Barberton,7
+Bowling Green,7
+El Dorado,7
+Gonzales,7
+Pine Grove,7
+Grove City,7
+Lucerne,7
+Greenbrae,7
+Soda Springs,6
+Cloverdale,6
+Portola Valley,6
+Dos Palos,6
+Kelseyville,6
+Alta,6
+Cotati,6
+Independence,6
+San Martin,6
+La Honda,5
+Clearlake Oaks,5
+Willows,5
+Hilmar,5
+Clarksburg,5
+Penngrove,5
+Bay Point,5
+Lotus,5
+Bodega Bay,5
+Larkspur,5
+Lower Lake,5
+Fairborn,5
+Foresthill,5
+Copperopolis,5
+Moraine,5
+Newman,5
+Elverta,5
+Moss Landing,5
+Angels Camp,5
+Suisun City,5
+Mokelumne Hill,5
+Guerneville,5
+San Quentin,5
+Fulton,5
+Canal Winchester,5
+Reynoldsburg,5
+Goshen,4
+Occidental,4
+Delhi,4
+Jackson,4
+Pope Valley,4
+Mcclellan,4
+Pescadero,4
+Pacifica,4
+Milford,4
+Dunnigan,4
+McClellan,4
+Mendota,4
+Marina,4
+Emigrant Gap,4
+Piqua,3
+Groveport,3
+Arbuckle,3
+Esparto,3
+Lakeport,3
+Georgetown,3
+Seaside,3
+Elyria,3
+Mather,3
+Meadow Vista,3
+Ben Lomond,3
+Springboro,3
+Dutch Flat,3
+Somerset,3
+Maple Heights,3
+Freedom,3
+Pioneer,3
+Cool,3
+Diamond Springs,3
+North Olmsted,3
+Monte Rio,3
+Bethel,3
+Plymouth,3
+Mountain Ranch,3
+Hopland,3
+Oakley,3
+Waterford,2
+Hilliard,2
+San Gregorio,2
+Mansfield,2
+Findlay,2
+Carroll,2
+Springfield,2
+Stevinson,2
+Sunbury,2
+Lima,2
+Yountville,2
+Herald,2
+Kentfield,2
+Johnstown,2
+Clayton,2
+Yorkville,2
+Zamora,2
+Capitola,2
+Carmel Valley,2
+Jenner,2
+Crows Landing,2
+Downieville,2
+Little River,2
+Pataskala,2
+Garden Valley,2
+Moscow,2
+Marysville,2
+Belvedere Tiburon,2
+Pacheco,2
+Coyote,2
+Woodside,2
+Sutter Creek,2
+Rough And Ready,2
+Courtland,2
+Felton,2
+Moss Beach,2
+Galena,2
+Nice,2
+Beavercreek,2
+Alviso,2
+Orient,2
+Yuba City,2
+Lockbourne,2
+Mount Sterling,2
+Bloomingburg,1
+Galloway,1
+Vandalia,1
+Burbank,1
+Jamestown,1
+Gridley,1
+Pleasant Grove,1
+Davenport,1
+Sabina,1
+Williamsburg,1
+Pebble Beach,1
+Williams,1
+Xenia,1
+The Sea Ranch,1
+Bodega,1
+New Carlisle,1
+Lewis Center,1
+Sardinia,1
+Urbancrest,1
+Brecksville,1
+Blanchester,1
+Frankfort,1
+Casstown,1
+Amelia,1
+London,1
+Owensville,1
+Oregonia,1
+Waynesville,1
+Lebanon,1
+Maxwell,1
+Capay,1
+Fairfax,1
+Hughson,1
+Norden,1
+Sierra City,1
+Livingston,1
+Strongsville,1
+Circleville,1
+Seville,1
+Keyes,1
+Oregon House,1
+Stanford,1
+La Grange,1
+Brookpark,1
+Delaware,1
+Cambridge,1
+Fraziers Bottom,1
+Oberlin,1
+Tipp City,1
+Biggs,1
+Meridian,1
+Rumsey,1
+Maineville,1
+Nicolaus,1
+Vermilion,1
+Travis Afb,1
+Hurricane,1
+Peebles,1
+Troy,1
+Wilmington,1
+Gallipolis,1
+New Richmond,1
+Angwin,1
+Bellville,1
+Tiro,1
+Big Sur,1
+Muir Beach,1
+Brooks,1
+Paicines,1
+Browns Valley,1
+Sutter,1
+Dobbins,1
+Gualala,1
+Rough and Ready,1
+Farmington,1
+Milan,1
+Rescue,1
+Millersport,1
+Mason,1
+Emerald Hills,1
+Gold River,1
+Fort Bragg,1
+Birds Landing,1
+Fiddletown,1
+Annapolis,1
+Rancho Murieta,1
+Port Costa,1
+Southeast Marin,1
+Monte Sereno,1
+Applegate,1
+Mount Hamilton,1
+North San Juan,1
+Smartsville,1
+Point Reyes Station,1
+Vernalis,1
+Clearlake,1
+Zanesville,1
+Redwood Valley,1
+North Baltimore,1
+Graton,1
+Merced,1
+Upper Lake,1
+Lockeford,1
+Ballico,1
